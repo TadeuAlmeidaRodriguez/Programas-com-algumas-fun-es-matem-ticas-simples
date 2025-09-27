@@ -1,0 +1,1 @@
+Esses programas apresentam um pouco mais de complexidade. Neles temos aplicações do import java.lang.Math. Um exemplo prático que se encontra em meio a essas atividade, é o de achar a área de um quadrado, ao invés de colocar lado x lado, coloca-se pow (lado,2O), que é a função de potência.
